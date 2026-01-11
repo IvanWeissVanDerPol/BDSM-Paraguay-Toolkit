@@ -9,7 +9,7 @@ Repositorio completo de investigacion, guias y recursos para la organizacion de 
 ```
 Investigacion/
 |
-+-- 02_Historial_Eventos/           # Registro historico de eventos
++-- 01_Event_History/               # Registro historico de eventos
 |   +-- Sexpo/                      # Eventos de Sexpo Paraguay
 |   |   +-- 2022-11-04_fiesta_cierre_barbarella.md
 |   |   +-- 2023-07-22_fiesta_barbarella.md
@@ -20,11 +20,13 @@ Investigacion/
 |   +-- Mascarada/                  # Eventos del Club Mascarada
 |       +-- 2025_resumen_anual.md
 |
-+-- 03_Guias_Organizacion/          # Guias para organizar eventos
++-- 02_Organization_Toolkit/        # Guias para organizar eventos
 |   +-- 00_GUIA_MAESTRA.md          # Guia principal paso a paso
 |   +-- Seguridad/
 |   |   +-- 01_protocolos_comunidad.md   # Reglas SSC/RACK, vetting
 |   |   +-- 02_protocolos_crisis.md      # Emergencias, policia, medico
+|   |   +-- 03_vetting_osint_avanzado.md
+|   |   +-- 04_resolucion_conflictos.md
 |   +-- Infraestructura/
 |   |   +-- 01_mobiliario_diy.md         # Como construir equipos
 |   +-- Tematicas_Eventos/
@@ -32,8 +34,18 @@ Investigacion/
 |   +-- Administracion/
 |       +-- 01_documentos_legales.md     # Waivers, consentimiento
 |       +-- 02_manual_staff_dms.md       # Manual para voluntarios
+|       +-- 03_estrategia_patrocinios.md
+|       +-- 04_psicologia_precios.md
+|       +-- 05_marketing_analytics.md
+|       +-- 06_estructura_legal_paraguay.md
+|   +-- Comunidad/
+|       +-- 01_retencion_aftercare.md
+|       +-- 02_accesibilidad_inclusion.md
+|   +-- Produccion/
+|       +-- 01_curaduria_musical.md
+|       +-- 02_compras_locales_kinky.md
 |
-+-- 04_Venues/                      # Base de datos de lugares
++-- 03_Venues/                      # Base de datos de lugares
 |   +-- README.md                   # Indice de venues
 |   +-- 01_bares_rock_underground.md
 |   +-- 02_lgbtq_friendly.md
@@ -42,12 +54,12 @@ Investigacion/
 |   +-- 05_salones_privados.md
 |   +-- 06_gran_asuncion_aregua.md
 |
-+-- 05_Marketing/                   # Estrategia de marca
++-- 04_Marketing/                   # Estrategia de marca
 |   +-- 01_identidad_marca.md       # Paleta, tipografia, estilo
 |   +-- 02_calendario_contenido.md  # Plan mensual de posts
 |   +-- 03_catalogo_ideas_eventos.md # Conceptos de eventos
 |
-+-- 06_Finanzas/                    # Plantillas financieras
++-- 05_Finances/                    # Plantillas financieras
     +-- README.md                   # Guia de uso
     +-- 00_plantilla_base.md        # Template generico
     +-- 01_estimacion_munch_lowcost.md
@@ -80,7 +92,7 @@ NN_nombre_descriptivo.md
 
 ### Folders
 
-- Todo en espanol
+- Todo en ingles (Organization_Toolkit, Finances, etc)
 - snake_case (guiones bajos)
 - Sin espacios
 
@@ -90,21 +102,21 @@ NN_nombre_descriptivo.md
 
 ### Organizar un Evento
 
-1. **Planificacion**: `03_Guias_Organizacion/00_GUIA_MAESTRA.md`
-2. **Seguridad**: `03_Guias_Organizacion/Seguridad/`
-3. **Venue**: `04_Venues/` (elegir segun tipo de evento)
-4. **Presupuesto**: `06_Finanzas/` (usar estimacion similar)
+1. **Planificacion**: `02_Organization_Toolkit/00_GUIA_MAESTRA.md`
+2. **Seguridad**: `02_Organization_Toolkit/Seguridad/`
+3. **Venue**: `03_Venues/` (elegir segun tipo de evento)
+4. **Presupuesto**: `05_Finances/` (usar estimacion similar)
 
 ### Buscar Inspiracion
 
-- Tematicas: `03_Guias_Organizacion/Tematicas_Eventos/`
-- Ideas rapidas: `05_Marketing/03_catalogo_ideas_eventos.md`
-- Eventos pasados: `02_Historial_Eventos/`
+- Tematicas: `02_Organization_Toolkit/Tematicas_Eventos/`
+- Ideas rapidas: `04_Marketing/03_catalogo_ideas_eventos.md`
+- Eventos pasados: `01_Event_History/`
 
 ### Marketing
 
-- Identidad visual: `05_Marketing/01_identidad_marca.md`
-- Calendario: `05_Marketing/02_calendario_contenido.md`
+- Identidad visual: `04_Marketing/01_identidad_marca.md`
+- Calendario: `04_Marketing/02_calendario_contenido.md`
 
 ---
 
