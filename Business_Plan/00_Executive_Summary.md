@@ -127,6 +127,12 @@ This GitHub repository contains the complete strategic and operational documenta
 | [Market Analysis](05_Market_Analysis.md) | Competition, SWOT, market trends, pricing |
 | [Financial Projections](06_Financial_Projections.md) | Revenue, costs, P&L, cash flow, investment |
 | [Technology Roadmap](07_Technology_Roadmap.md) | Platform, tools, website architecture, bot design |
-| [Community Programs](../Community/01_Programs_Services.md) | All programs, services, and offerings catalog |
+| [Growth Opportunities](08_Growth_Opportunities.md) | Every expansion path, new revenue stream, geographic & digital growth |
+| [Partnership Playbook](09_Partnership_Playbook.md) | Complete partnership strategy — institutions, venues, sponsors, international |
+| [Operations Scaling](10_Operations_Scaling.md) | How to grow from 2 founders to a recognized institution |
+| [Community Programs](../Community/01_Programs_Services.md) | Core programs, services, and offerings catalog |
 | [International Benchmarks](../Community/02_International_Benchmarks.md) | Global models to learn from and adopt |
+| [Complete Offerings Catalog](../Community/03_Complete_Offerings_Catalog.md) | Exhaustive master list of EVERYTHING we can build |
+| [Global Models Deep Dive](../Community/04_Global_Models_Deep_Dive.md) | Every global community model analyzed country-by-country |
+| [Programs By Category](../Community/05_Programs_By_Category.md) | All programs with step-by-step implementation guides |
 | [Operations Toolkit](../Investigacion/) | Event guides, safety protocols, venue database, templates |

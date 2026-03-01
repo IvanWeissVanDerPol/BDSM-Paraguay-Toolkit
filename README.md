@@ -64,11 +64,17 @@ Large-scale expos combining education, entertainment, and cultural disruption. G
 │   ├── 04_Ecosystem_Strategy.md       # Cross-brand integration strategy
 │   ├── 05_Market_Analysis.md          # Market research & competitive landscape
 │   ├── 06_Financial_Projections.md    # Revenue models & financial forecasts
-│   └── 07_Technology_Roadmap.md       # Platform & technology strategy
+│   ├── 07_Technology_Roadmap.md       # Platform & technology strategy
+│   ├── 08_Growth_Opportunities.md     # Every expansion path & new revenue stream
+│   ├── 09_Partnership_Playbook.md     # Complete partnership & sponsorship strategy
+│   └── 10_Operations_Scaling.md       # How to scale from startup to institution
 │
 ├── Community/                         # Community programs & services
-│   ├── 01_Programs_Services.md        # All community offerings catalog
-│   └── 02_International_Benchmarks.md # What other countries do & we can adopt
+│   ├── 01_Programs_Services.md        # Core community offerings catalog
+│   ├── 02_International_Benchmarks.md # What other countries do & we can adopt
+│   ├── 03_Complete_Offerings_Catalog.md # EVERYTHING we can build — master menu
+│   ├── 04_Global_Models_Deep_Dive.md  # Every global community model analyzed
+│   └── 05_Programs_By_Category.md     # All programs with implementation guides
 │
 ├── Investigacion/                     # Research & operational toolkit (existing)
 │   ├── 00_README.md
@@ -99,10 +105,13 @@ Large-scale expos combining education, entertainment, and cultural disruption. G
 ## Getting Started
 
 1. Read the [Executive Summary](Business_Plan/00_Executive_Summary.md) for the full strategic vision
-2. Review individual brand plans in `Business_Plan/`
-3. Explore operational guides in `Investigacion/02_Organization_Toolkit/`
-4. Check `Community/` for program ideas and international benchmarks
-5. See GitHub Issues for active workstreams and task tracking
+2. Review individual brand plans: [Fun4Me](Business_Plan/01_Fun4Me_Store.md), [Maskarada](Business_Plan/02_Maskarada.md), [Sexpo](Business_Plan/03_Sexpo_Paraguay.md)
+3. See [Growth Opportunities](Business_Plan/08_Growth_Opportunities.md) for every expansion path
+4. Browse the [Complete Offerings Catalog](Community/03_Complete_Offerings_Catalog.md) for everything we can build
+5. Study [Global Models](Community/04_Global_Models_Deep_Dive.md) for what communities worldwide do
+6. Use [Programs By Category](Community/05_Programs_By_Category.md) for step-by-step implementation
+7. Explore operational guides in `Investigacion/02_Organization_Toolkit/`
+8. See GitHub Issues for active workstreams and task tracking
 
 ---
 
