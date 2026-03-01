@@ -64,7 +64,24 @@ Large-scale expos combining education, entertainment, and cultural disruption. G
 │   ├── 04_Ecosystem_Strategy.md       # Cross-brand integration strategy
 │   ├── 05_Market_Analysis.md          # Market research & competitive landscape
 │   ├── 06_Financial_Projections.md    # Revenue models & financial forecasts
-│   └── 07_Technology_Roadmap.md       # Platform & technology strategy
+│   ├── 07_Technology_Roadmap.md       # Platform & technology strategy
+│   └── Expansion/                     # Additional business areas & growth plans
+│       ├── 08_Content_Media_Platform.md    # Podcast, YouTube, blog — "Sin Tabues PY"
+│       ├── 09_Education_Academy.md         # Online courses & certifications — "Academia Fun4Me"
+│       ├── 10_Import_Distribution.md       # Wholesale supply for Paraguay/region
+│       ├── 11_Digital_Products.md          # E-books, card games, workbooks
+│       ├── 12_Corporate_Wellness.md        # B2B workshops — "Bienestar Sexual PY"
+│       ├── 13_Fashion_Apparel.md           # Custom lingerie & fetish wear — "Maskarada Wear"
+│       ├── 14_Health_Therapy_Services.md   # Sexology clinic, couples therapy, telehealth
+│       ├── 15_Event_Production_Company.md  # Third-party event production
+│       ├── 16_Wellness_Retreats_Travel.md  # Retreats & kink tourism packages
+│       ├── 17_Physical_Venue_Club.md       # Permanent venue / members' club
+│       ├── 18_Creator_Economy.md           # Content creator studio & incubator
+│       ├── 19_Community_App_Platform.md    # Custom mobile app for community
+│       ├── 20_Arts_Culture_Programming.md  # Erotic art, film, theater, burlesque
+│       ├── 21_Consulting_B2B.md            # Ecosystem consulting & Sexpo licensing
+│       ├── 22_Geographic_Expansion.md      # CDE, Encarnacion, LatAm franchise model
+│       └── 23_Expansion_Financial_Projections.md  # Consolidated expansion financials
 │
 ├── Community/                         # Community programs & services
 │   ├── 01_Programs_Services.md        # All community offerings catalog

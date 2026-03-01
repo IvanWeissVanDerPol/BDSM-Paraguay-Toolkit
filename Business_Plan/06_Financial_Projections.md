@@ -257,3 +257,47 @@ Alternatively, if starting very lean:
 - Properly document all import costs as COGS deductions
 - Maintain separate accounting for each brand (within single SAS)
 - Consider IVA credit for business purchases
+
+---
+
+## 10. Expansion Business Areas — Financial Summary
+
+*For detailed financial projections of all 15 expansion business areas, see `Business_Plan/Expansion/23_Expansion_Financial_Projections.md`.*
+
+### 10.1 Combined Ecosystem Revenue (Core + Expansion)
+
+| Source | Year 1 (Gs.) | Year 2 (Gs.) | Year 3 (Gs.) | Year 4 (Gs.) | Year 5 (Gs.) |
+|---|---|---|---|---|---|
+| Core Brands (F4M + Maskarada + Sexpo) | 419,100,000 | 936,300,000 | 1,808,500,000 | 2,400,000,000 | 3,050,000,000 |
+| Expansion Areas (15 new businesses) | 65,000,000 | 276,700,000 | 934,300,000 | 1,518,400,000 | 2,173,000,000 |
+| **TOTAL ECOSYSTEM** | **484,100,000** | **1,213,000,000** | **2,742,800,000** | **3,918,400,000** | **5,223,000,000** |
+| **Total (USD)** | **$65,419** | **$163,919** | **$370,649** | **$529,514** | **$705,811** |
+
+### 10.2 Additional Investment Required
+
+| Phase | Investment (Gs.) | Investment (USD) | Timeline |
+|---|---|---|---|
+| Phase 1 (Quick Wins) | 56,000,000 | ~$7,568 | Months 6-12 |
+| Phase 2 (Growth) | 76,500,000 | ~$10,338 | Year 2 |
+| Phase 3 (Scale) | 232,000,000 | ~$31,351 | Year 3 |
+| Phase 4 (Expansion) | 9,000,000 | ~$1,216 | Year 3+ |
+| **TOTAL** | **373,500,000** | **~$50,473** | Over 3 years |
+
+### 10.3 Highest ROI Expansion Areas
+
+| Rank | Business Area | Startup Cost | Break-Even | Y3 Margin |
+|---|---|---|---|---|
+| 1 | Corporate Wellness | 3,000,000 | Month 2 | 47% |
+| 2 | Digital Products | 5,000,000 | Month 3 | 78% |
+| 3 | Consulting & B2B | 9,000,000 | Month 2 | 79% |
+| 4 | Content & Media | 8,000,000 | Month 14 | 46% |
+| 5 | Education Academy | 19,500,000 | Month 5 | 47% |
+
+### 10.4 Year 4-5 Full Ecosystem Projections
+
+| Metric | Year 4 (Gs.) | Year 4 (USD) | Year 5 (Gs.) | Year 5 (USD) |
+|---|---|---|---|---|
+| **Total Revenue** | 3,918,400,000 | $529,514 | 5,223,000,000 | $705,811 |
+| **Total Costs** (est.) | 2,742,880,000 | $370,659 | 3,656,100,000 | $494,068 |
+| **Net Profit** | 1,057,968,000 | $142,969 | 1,410,210,000 | $190,569 |
+| **Operating Margin** | 27% | | 27% | |
