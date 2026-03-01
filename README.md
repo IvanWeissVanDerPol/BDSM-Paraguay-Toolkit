@@ -67,14 +67,18 @@ Large-scale expos combining education, entertainment, and cultural disruption. G
 │   ├── 07_Technology_Roadmap.md       # Platform & technology strategy
 │   ├── 08_Growth_Opportunities.md     # Every expansion path & new revenue stream
 │   ├── 09_Partnership_Playbook.md     # Complete partnership & sponsorship strategy
-│   └── 10_Operations_Scaling.md       # How to scale from startup to institution
+│   ├── 10_Operations_Scaling.md       # How to scale from startup to institution
+│   ├── 11_Marketing_Content_Strategy.md # Marketing playbook for all platforms
+│   ├── 12_Risk_Management.md          # Comprehensive risk analysis & mitigation
+│   └── 13_Supply_Chain_Sourcing.md    # Product sourcing, import & inventory
 │
 ├── Community/                         # Community programs & services
 │   ├── 01_Programs_Services.md        # Core community offerings catalog
 │   ├── 02_International_Benchmarks.md # What other countries do & we can adopt
 │   ├── 03_Complete_Offerings_Catalog.md # EVERYTHING we can build — master menu
 │   ├── 04_Global_Models_Deep_Dive.md  # Every global community model analyzed
-│   └── 05_Programs_By_Category.md     # All programs with implementation guides
+│   ├── 05_Programs_By_Category.md     # All programs with implementation guides
+│   └── 06_Venue_Experience_Design.md  # How to design event spaces & immersive experiences
 │
 ├── Investigacion/                     # Research & operational toolkit (existing)
 │   ├── 00_README.md
