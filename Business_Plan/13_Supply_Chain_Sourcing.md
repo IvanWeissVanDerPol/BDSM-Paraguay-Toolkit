@@ -200,15 +200,56 @@
 | **Courier** (DHL, FedEx, UPS) | Urgent small shipments | Courier handles customs, higher shipping cost | 3-7 days |
 | **Postal** (Correo Paraguayo) | Non-urgent small shipments | Cheapest but slowest, customs may hold | 2-8 weeks |
 
-### 3.4 Discreet Import Practices
+### 3.4 Import Best Practices
 
-| Practice | Purpose |
+> **IMPORTANT LEGAL NOTE:** Product descriptions on customs invoices must be ACCURATE. Misdeclaring products (e.g., listing a vibrator as a "massage device" to avoid scrutiny) is technically customs fraud and can result in seizure of goods, fines, and criminal liability. Use accurate product descriptions — adult products are NOT prohibited imports in Paraguay.
+
+| Practice | Purpose | Legal? |
+|---|---|---|
+| **Accurate product descriptions** on invoices | "Electric personal massager", "personal intimate accessories" — accurate and non-obscene | YES — use accurate but non-vulgar descriptions |
+| **Plain outer packaging** from suppliers | No explicit imagery on outer boxes | YES — this is standard supplier practice |
+| **Use licensed despachante** (customs broker) | Professional handles tariff classification and paperwork | YES — required for formal imports |
+| **Reputable courier** (DHL/FedEx) | Handle customs professionally, full tracking | YES — recommended |
+| **Complete documentation** | Keep all invoices, packing lists, customs receipts for 5 years | YES — required by SET for tax deductions |
+
+### 3.5 Realistic Import Cost Breakdown
+
+> **Note:** Previous margin estimates (65-80%) did not include all landed costs. Here is a more realistic calculation.
+
+**Example: Importing 100 bullet vibrators from China (Alibaba)**
+
+| Cost Component | Amount (USD) | Notes |
+|---|---|---|
+| Product cost (FOB) | $5.00 × 100 = $500 | Factory price |
+| Shipping (air freight to ASU) | $200-350 | DHL/FedEx for small batch |
+| Customs broker fee | $200-400 | Despachante aduanero |
+| Import duty (~15%) | $75 | On declared value |
+| IVA on import (10%) | $57.50 | On declared value + duty |
+| Handling/storage fees | $50-100 | If customs holds package |
+| **Total landed cost** | **$1,082-1,482** | |
+| **Per-unit landed cost** | **$10.82-14.82** | |
+| **Retail price** | Gs. 100,000 (~$13.50) | |
+| **Actual margin** | **-9% to +20%** | **Much lower than 65-80% previously estimated** |
+
+**Key insight:** At small volumes, import costs eat into margins significantly. Options to improve:
+1. Increase volume to reduce per-unit shipping and broker costs
+2. Source from Brazil/Argentina via Mercosur (lower duties)
+3. Purchase from CDE traders (eliminates customs process but limits product quality control)
+4. Focus on higher-value products where fixed costs are a smaller % of unit price
+
+### 3.6 CDE Import Channel (How It Actually Works)
+
+> Ciudad del Este (CDE) is Paraguay's second-largest city and the center of cross-border commerce with Brazil. Many adult products are available from CDE traders who import from Brazil or China in bulk.
+
+| Aspect | Detail |
 |---|---|
-| **Generic product descriptions** on invoices | "Personal care devices", "wellness products", "massage equipment" |
-| **Plain packaging** from suppliers | No explicit imagery on outer packaging |
-| **Multiple shipments** | Split large orders to avoid attention and reduce per-shipment value |
-| **Reputable courier** | DHL/FedEx handle customs professionally, less risk of delays |
-| **Documentation** | Keep all import documentation for tax compliance |
+| **How it works** | Travel to CDE (5 hours from ASU), buy from wholesale traders, bring back by bus or personal vehicle |
+| **Advantages** | No customs paperwork for small quantities, immediate availability, competitive prices |
+| **Disadvantages** | Product quality varies widely, no warranties, limited high-end brands, requires travel |
+| **Legal gray area** | Quantities for "personal use" vs "commercial resale" — formal importers in CDE have proper documentation; informal purchases may not |
+| **Best for** | Testing new products, filling urgent inventory gaps, low-volume items |
+| **NOT best for** | Building a reliable, consistent supply chain with quality guarantees |
+| **Recommendation** | Use CDE for initial inventory testing; transition to formal imports from Brazil/China as volume justifies the fixed costs |
 
 ---
 

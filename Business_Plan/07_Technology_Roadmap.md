@@ -293,17 +293,59 @@ fun4me.com.py/
 | **Sprint 9** | Months 7-9 | Discord setup, podcast launch, video content |
 | **Sprint 10** | Months 10-12 | Mobile optimization, loyalty program, year-1 review |
 
-### 7.2 Estimated Development Costs
+### 7.2 Estimated Development Costs (Revised — Realistic)
 
-| Item | Cost Estimate (Gs.) | Cost (USD) |
-|---|---|---|
-| WooCommerce setup (theme, plugins) | 3,000,000 | ~$400 |
-| Custom development (Telegram bot) | 5,000,000 | ~$675 |
-| Design (logo refresh, templates) | 3,000,000 | ~$400 |
-| Photography (product catalog) | 2,000,000 | ~$270 |
-| Content writing (initial blog posts) | 1,500,000 | ~$200 |
-| Hosting (first year) | 1,500,000 | ~$200 |
-| Domain + SSL | 200,000 | ~$27 |
-| Premium plugins (one-time) | 4,000,000 | ~$540 |
-| Contingency (20%) | 4,000,000 | ~$540 |
-| **Total Year 1 Tech Investment** | **24,200,000** | **~$3,270** |
+> **Honesty note:** The previous budget of $3,270 for a full e-commerce platform with membership, subscriptions, payment integration, and Telegram bot was unrealistically low. These revised estimates reflect actual market rates for Paraguay/LatAm developers.
+
+| Item | Previous (Gs.) | Previous (USD) | **Revised (Gs.)** | **Revised (USD)** | Notes |
+|---|---|---|---|---|---|
+| WooCommerce setup (theme, plugins, config) | 3,000,000 | $400 | **8,000,000** | **$1,080** | Includes theme, 5+ premium plugins, payment gateway integration, shipping config |
+| Custom development (Telegram bot MVP) | 5,000,000 | $675 | **15,000,000** | **$2,027** | MVP only: /apply, /events, /rules, /report. See Telegram/bot_spec.md |
+| Design (logo, brand guidelines, templates) | 3,000,000 | $400 | **5,000,000** | **$676** | Professional branding for 3 brands |
+| Photography (product catalog, 50+ products) | 2,000,000 | $270 | **3,000,000** | **$405** | Studio time + photographer for 50 SKUs |
+| Content writing (initial blog posts, product descriptions) | 1,500,000 | $200 | **2,500,000** | **$338** | 10 blog posts + 50 product descriptions |
+| Hosting (first year, managed WordPress) | 1,500,000 | $200 | **2,200,000** | **$297** | Managed hosting with CDN for Paraguay |
+| Domain + SSL | 200,000 | $27 | **300,000** | **$41** | .com.py domain + Let's Encrypt |
+| Premium plugins (Memberships, Subscriptions, etc.) | 4,000,000 | $540 | **6,000,000** | **$811** | WooCommerce Memberships + Subscriptions + other essential plugins |
+| Payment gateway integration (Bancard) | — | — | **3,000,000** | **$405** | Custom integration for Paraguay-specific payments |
+| Security & backup setup | — | — | **1,500,000** | **$203** | Firewall, backup automation, security audit |
+| Contingency (25%) | 4,000,000 | $540 | **11,600,000** | **$1,568** | Higher contingency for tech projects (scope creep is real) |
+| **Total Year 1 Tech Investment** | **24,200,000** | **$3,270** | **58,100,000** | **~$7,851** | **2.4x the original estimate** |
+
+### 7.3 Ongoing Monthly Tech Costs
+
+| Item | Monthly Cost (Gs.) | Annual (Gs.) | Annual (USD) |
+|---|---|---|---|
+| Managed hosting | 185,000 | 2,200,000 | $297 |
+| Domain renewal | — | 110,000 | $15 |
+| Plugin renewals (annual) | — | 3,000,000 | $405 |
+| Email service (Google Workspace, 3 users) | 130,000 | 1,560,000 | $211 |
+| Telegram bot hosting (VPS) | 75,000 | 900,000 | $122 |
+| CRM (Airtable or similar when HubSpot outgrown) | 150,000 | 1,800,000 | $243 |
+| Design tools (Canva Pro) | 96,000 | 1,152,000 | $156 |
+| Social media tools (Buffer/Later) | 75,000 | 900,000 | $122 |
+| **Monthly Total** | **711,000** | **~11,622,000** | **~$1,571/year** |
+
+### 7.4 Deplatforming Risk — What If WordPress/WooCommerce Blocks Adult Content?
+
+| Risk | Probability | Impact | Mitigation |
+|---|---|---|---|
+| WordPress.com hosting refuses adult content | Medium (self-hosted = Low) | High | Use self-hosted WordPress on VPS/managed hosting (NOT WordPress.com hosted) |
+| WooCommerce plugin removed | Very Low | Critical | Maintain regular full backups; evaluate Shopify (limited adult), OpenCart, or PrestaShop as fallbacks |
+| Payment processor (Bancard) blocks account | Low-Medium | Critical | Maintain manual transfer payment as backup; explore crypto payments for privacy |
+| Cloudflare/CDN blocks adult content | Low | Medium | Alternative CDN providers; self-hosted cache |
+
+**Key protection:** Use SELF-HOSTED WordPress (your own server), not WordPress.com. Self-hosted = you control the content policies.
+
+### 7.5 What's NOT in the Technology Roadmap
+
+These items appeared in earlier drafts and have been explicitly removed:
+
+| Removed Item | Reason |
+|---|---|
+| VR experiences | No market demand, excessive cost ($20K+), premature by 5+ years |
+| AI-powered product recommendations | Over-engineered for <500 customers. Simple "related products" plugin is sufficient |
+| Community marketplace | Not enough users for peer-to-peer marketplace viability |
+| Advanced analytics (Metabase) | Google Analytics + spreadsheets are sufficient for Year 1-2 |
+| Mobile app | Premature — responsive website is sufficient until 1,000+ active users. Real cost: $8,000-15,000, not $500-2,000 |
+| Discord server | Don't split community across platforms. Telegram is sufficient for Year 1 | |

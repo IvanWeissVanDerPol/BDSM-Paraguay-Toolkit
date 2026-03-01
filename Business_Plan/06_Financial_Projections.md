@@ -204,12 +204,14 @@ Alternatively, if starting very lean:
 | **Gross margin** (ecosystem) | 38% | 42% | 47% |
 | **Operating margin** | -44% | -14% | 3% |
 | **Revenue per team member** (full-time equiv) | 69,850,000 | 104,033,000 | 150,708,000 |
-| **Customer acquisition cost** (avg) | 20,000 | 15,000 | 12,000 |
-| **Customer lifetime value** (projected) | 400,000 | 600,000 | 800,000 |
-| **LTV:CAC ratio** | 20:1 | 40:1 | 67:1 |
+| **Customer acquisition cost** (avg) | 48,000 | 32,000 | 21,000 |
+| **Customer lifetime value** (projected, 24-mo) | 180,000 | 320,000 | 500,000 |
+| **LTV:CAC ratio** | 3.8:1 | 10:1 | 24:1 |
 | **Monthly burn rate** (avg) | 15,500,000 | 10,900,000 | positive |
 | **Runway** (with full funding) | 14 months | — | — |
-| **Break-even month** | — | — | Month 28-30 |
+| **Break-even month** | — | — | Month 32-36 |
+
+> **Note on LTV:CAC**: Year 1 ratios reflect the reality of a new brand with no organic traffic. CAC is high because every customer must be acquired through paid channels, influencers, or events. LTV is modest because repeat purchase behavior is unproven. As community word-of-mouth grows, CAC drops significantly. These estimates assume ~30% organic acquisition by Year 2 and ~50% by Year 3.
 
 ---
 
@@ -217,11 +219,15 @@ Alternatively, if starting very lean:
 
 ### 8.1 Revenue Scenarios
 
-| Scenario | Year 1 Revenue | Year 3 Revenue | Break-Even |
-|---|---|---|---|
-| **Pessimistic** (-30%) | 293,370,000 | 1,265,950,000 | Month 42+ |
-| **Base case** | 419,100,000 | 1,808,500,000 | Month 28-30 |
-| **Optimistic** (+30%) | 544,830,000 | 2,351,050,000 | Month 18-20 |
+| Scenario | Year 1 Revenue | Year 3 Revenue | Break-Even | Additional Capital Needed |
+|---|---|---|---|---|
+| **Crisis** (-50%) | 209,550,000 | 904,250,000 | Never (without pivot) | $40,000+ |
+| **Pessimistic** (-30%) | 293,370,000 | 1,265,950,000 | Month 42-48 | $15,000-20,000 |
+| **Conservative** (-15%) | 356,235,000 | 1,537,225,000 | Month 38-42 | $5,000-10,000 |
+| **Base case** | 419,100,000 | 1,808,500,000 | Month 32-36 | $0 (funded by startup capital) |
+| **Optimistic** (+30%) | 544,830,000 | 2,351,050,000 | Month 22-26 | $0 |
+
+> **Critical honesty note**: The -50% "Crisis" scenario is not unlikely for a first-mover in an untested, conservative market. If less than half of projected revenue materializes, the ecosystem is not viable without either (a) additional capital injection, (b) dramatic cost reduction (founder-only operations), or (c) strategic pivot to lower-cost programming. **Every founder should have a clear answer to "what do we do if we're at 50% of plan by Month 12?"**
 
 ### 8.2 Key Levers
 

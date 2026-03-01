@@ -278,23 +278,33 @@ Additional hires as revenue grows:
 
 ### 7.3 Path to Profitability
 
-| Year | Revenue (Gs.) | Costs (Gs.) | Profit (Gs.) | Status |
-|---|---|---|---|---|
-| Year 1 | 419,100,000 | 541,400,000 | -122,300,000 | Investment phase |
-| Year 2 | 958,000,000 | 720,000,000 | +238,000,000 | Profitable |
-| Year 3 | 1,914,000,000 | 1,050,000,000 | +864,000,000 | Scaling |
+> **Note:** All financial projections below are aligned with the detailed model in [06_Financial_Projections.md](06_Financial_Projections.md), which is the single authoritative source for all financial numbers.
+
+| Year | Revenue (Gs.) | Revenue (USD) | Costs (Gs.) | Costs (USD) | Net (Gs.) | Net (USD) | Status |
+|---|---|---|---|---|---|---|---|
+| Year 1 | 419,100,000 | $56,635 | 604,000,000 | $81,622 | -184,900,000 | -$24,986 | Investment phase |
+| Year 2 | 936,300,000 | $126,527 | 1,066,900,000 | $144,176 | -130,600,000 | -$17,649 | Growth phase |
+| Year 3 | 1,808,500,000 | $244,392 | 1,761,100,000 | $237,986 | +42,660,000 | +$5,765 | Break-even achieved |
+
+**Break-even**: Approximately Month 32-36 (mid-to-late Year 3). Under lean operations with founders handling most roles in Year 1, near-breakeven is achievable earlier.
+
+**Critical assumption**: These numbers assume consistent execution. If only 50% of projected revenue materializes, break-even extends to Year 4+ and additional capital of ~$15,000-20,000 would be required to bridge the gap. See sensitivity analysis in [06_Financial_Projections.md](06_Financial_Projections.md) Section 8.
 
 ### 7.4 Investment Required
 
 | Item | Amount (Gs.) | Amount (USD) |
 |---|---|---|
-| Year 1 operating gap | 122,300,000 | ~$16,500 |
-| Website development (Fun4Me) | 25,000,000 | ~$3,400 |
-| Initial inventory | 40,000,000 | ~$5,400 |
-| Equipment (sound, lighting, decor) | 20,000,000 | ~$2,700 |
-| Working capital reserve | 30,000,000 | ~$4,050 |
-| Trademark registration | 5,000,000 | ~$675 |
-| **Total Startup Investment** | **242,300,000** | **~$32,725** |
+| SAS incorporation + legal setup | 5,000,000 | $676 |
+| Trademark registrations (3 brands) | 6,000,000 | $811 |
+| Website development (Fun4Me) | 24,200,000 | $3,270 |
+| Initial inventory (Fun4Me products) | 40,000,000 | $5,405 |
+| Event equipment (sound, lighting, decor) | 20,000,000 | $2,703 |
+| Photography (product catalog + branding) | 5,000,000 | $676 |
+| Maskarada token production (physical) | 2,000,000 | $270 |
+| Initial marketing campaign | 10,000,000 | $1,351 |
+| Working capital reserve (3 months ops) | 81,000,000 | $10,946 |
+| Contingency (15%) | 29,000,000 | $3,919 |
+| **Total Startup Investment** | **222,200,000** | **~$30,027** |
 
 ---
 

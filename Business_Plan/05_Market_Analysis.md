@@ -1,38 +1,52 @@
 # Market Analysis & Competitive Landscape
 
+> **Data Quality Notice:** This document distinguishes between VALIDATED data (with sources) and ESTIMATES (assumptions requiring validation). Items marked [ESTIMATE] have no direct evidence and should be treated as hypotheses to test, not facts to build on. See [15_Customer_Validation.md](15_Customer_Validation.md) for the validation plan.
+
 ---
 
 ## 1. Market Overview
 
 ### 1.1 Global Sexual Wellness Market
 
-| Metric | Value | Source |
-|---|---|---|
-| Market size (2023) | $36.5 billion | Global Market Insights |
-| Projected size (2032) | $75.7 billion | Global Market Insights |
-| CAGR | 8.4% | Industry estimates |
-| Key drivers | De-stigmatization, e-commerce growth, wellness integration, sex-tech innovation | — |
+| Metric | Value | Source | Relevance to Paraguay |
+|---|---|---|---|
+| Market size (2023) | $36.5 billion | Global Market Insights | Low — global TAM is irrelevant to a micro-market startup |
+| Projected size (2032) | $75.7 billion | Global Market Insights | Low — growth trend is directionally useful |
+| CAGR | 8.4% | Industry estimates | Low — Paraguay won't grow at global average |
+| Key drivers | De-stigmatization, e-commerce growth, wellness integration | — | Medium — these trends ARE reaching Paraguay's urban youth |
+
+> **Why this section exists:** Global market data provides context for investors but should NOT be used for Paraguay-specific projections. We are NOT "capturing 0.01% of the global market." We are building a community business for ~500-2,000 people in Asuncion.
 
 ### 1.2 Latin America Context
 
-| Metric | Value |
-|---|---|
-| LatAm sexual wellness market share | ~5-7% of global (~$2-2.5B) |
-| Fastest growing segments | E-commerce, wellness positioning, education-based retail |
-| Key markets | Brazil (#1), Mexico, Colombia, Argentina |
-| Paraguay positioning | Untapped micro-market, first-mover opportunity |
+| Metric | Value | Source |
+|---|---|---|
+| LatAm sexual wellness market share | ~5-7% of global (~$2-2.5B) | [ESTIMATE — no direct source] |
+| Fastest growing segments | E-commerce, wellness positioning, education-based retail | Industry reports |
+| Key markets | Brazil (#1), Mexico, Colombia, Argentina | Industry reports |
+| Paraguay positioning | Smallest Mercosur economy, untested market | Observation |
 
 ### 1.3 Paraguay Specific
 
-| Metric | Value |
-|---|---|
-| Population | ~7.4 million |
-| Asuncion metro | ~2.5 million |
-| Internet penetration | ~72% |
-| Mobile internet | ~80% of internet users |
-| E-commerce growth | ~25% year-over-year |
-| Average household income (Asuncion) | ~Gs. 8,000,000/month (~$1,080 USD) |
-| Target addressable market | ~50,000-100,000 adults in Asuncion with disposable income and openness to adult wellness |
+| Metric | Value | Source | Confidence |
+|---|---|---|---|
+| Population | ~7.4 million | DGEEC Paraguay | HIGH — census data |
+| Asuncion metro | ~2.5 million | DGEEC Paraguay | HIGH — census data |
+| Internet penetration | ~72% | ITU/CONATEL | MEDIUM — varies by source |
+| Mobile internet | ~80% of internet users | CONATEL | MEDIUM |
+| E-commerce growth | ~25% year-over-year | [ESTIMATE — industry reports] | LOW |
+| Average household income (Asuncion) | ~Gs. 8,000,000/month (~$1,080 USD) | [ESTIMATE — EPH survey data needed] | MEDIUM |
+| Median personal income (Paraguay) | ~Gs. 2,500,000-3,000,000/month (~$340-405 USD) | [ESTIMATE — needs EPH source] | MEDIUM |
+| Religious demographics | ~89% Catholic, ~7% Protestant | Pew Research | HIGH |
+| Target addressable market | ~5,000-15,000 adults [REVISED DOWN] | [ESTIMATE — methodology below] | LOW |
+
+**TAM Methodology (Honest):**
+- Asuncion metro: 2.5M people → ~1.5M adults (18+)
+- Remove low-income (below Gs. 3M/mo): ~900K remain
+- Apply "openness to adult wellness" filter: conservatively 2-5% = 18,000-45,000
+- Apply "willing to pay for events/products" filter: ~30% = 5,400-13,500
+- This gives a realistic addressable market of **~5,000-15,000 people**, not the previous 50,000-100,000 estimate
+- **This is an estimate.** Validate through survey data (see [15_Customer_Validation.md](15_Customer_Validation.md))
 
 ---
 
@@ -81,6 +95,22 @@
 | **Private kink groups** | Indirect | Low | Informal, unbranded private gatherings — potential collaboration, not competition |
 | **International events** | Indirect | Very Low | Buenos Aires, Sao Paulo events draw some Paraguayans |
 
+### 3.2.1 WHY No Competitors Have Entered Events — Critical Analysis
+
+> **The absence of competitors is not automatically a good sign.** It could mean untapped opportunity OR it could mean the market is too small, too risky, or too culturally hostile. We must understand WHY.
+
+| Possible Reason | Likelihood | Implication |
+|---|---|---|
+| **No one has thought of it** | Low | Unlikely — adult events exist across all of LatAm |
+| **Market is too small to justify investment** | Medium | If true, our revenue ceiling is lower than projected |
+| **Cultural risk too high** | Medium-High | Conservative backlash could target organizers personally |
+| **Venue owners refuse adult events** | Medium | Limits available spaces, increases costs |
+| **Organizers fear personal reputation damage** | High | In Paraguay's small social circles, being "the BDSM person" has real social costs |
+| **Existing private groups prefer to stay private** | High | Commercializing kink may face resistance FROM the community, not just outside it |
+| **Low disposable income limits willingness to pay** | Medium | Median income of ~$350/mo means events compete with basic needs |
+
+**Action required:** Interview 5-10 people from existing private kink groups and ask them directly: "Why hasn't anyone organized public events before? Would you attend? What would you worry about?" See [15_Customer_Validation.md](15_Customer_Validation.md).
+
 ### 3.3 Competitive Advantages
 
 | Advantage | Description |
@@ -117,6 +147,9 @@
 | | Community trust (Maskarada) | No physical retail presence |
 | | Safety/consent focus | Irregular event cadence (gaps in 2023, 2025) |
 | | Regulatory vacuum (no restrictions) | Underdeveloped e-commerce catalog |
+| | | Zero customer validation data |
+| | | No confirmed partnership agreements |
+| | | Financial projections are unvalidated estimates |
 | | | |
 | **External** | **OPPORTUNITIES** | **THREATS** |
 | | No event competitors | Conservative backlash / organized opposition |

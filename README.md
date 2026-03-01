@@ -56,39 +56,43 @@ Large-scale expos combining education, entertainment, and cultural disruption. G
 ```
 ├── README.md                          # This file
 │
-├── Business_Plan/                     # Strategic business planning
+├── Business_Plan/                     # Strategic business planning (16 documents)
 │   ├── 00_Executive_Summary.md        # Ecosystem overview & vision
 │   ├── 01_Fun4Me_Store.md             # Fun4Me retail business plan
 │   ├── 02_Maskarada.md                # Maskarada community business plan
 │   ├── 03_Sexpo_Paraguay.md           # Sexpo events business plan
 │   ├── 04_Ecosystem_Strategy.md       # Cross-brand integration strategy
 │   ├── 05_Market_Analysis.md          # Market research & competitive landscape
-│   ├── 06_Financial_Projections.md    # Revenue models & financial forecasts
-│   ├── 07_Technology_Roadmap.md       # Platform & technology strategy
-│   ├── 08_Growth_Opportunities.md     # Every expansion path & new revenue stream
-│   ├── 09_Partnership_Playbook.md     # Complete partnership & sponsorship strategy
+│   ├── 06_Financial_Projections.md    # Revenue models & financial forecasts ← AUTHORITATIVE financial source
+│   ├── 07_Technology_Roadmap.md       # Platform & technology strategy (revised budget)
+│   ├── 08_Growth_Opportunities.md     # Expansion paths (with rejected ideas archive)
+│   ├── 09_Partnership_Playbook.md     # Partnership & sponsorship strategy
 │   ├── 10_Operations_Scaling.md       # How to scale from startup to institution
 │   ├── 11_Marketing_Content_Strategy.md # Marketing playbook for all platforms
-│   ├── 12_Risk_Management.md          # Comprehensive risk analysis & mitigation
-│   └── 13_Supply_Chain_Sourcing.md    # Product sourcing, import & inventory
+│   ├── 12_Risk_Management.md          # Risk analysis & mitigation
+│   ├── 13_Supply_Chain_Sourcing.md    # Product sourcing, import & inventory (revised margins)
+│   ├── 14_Strategic_Focus.md          # ★ THE ANTI-PLAN — What we will NOT do
+│   ├── 15_Customer_Validation.md      # ★ Validation evidence & research framework
+│   └── 16_Team_Capabilities.md        # ★ Team bios, skills gaps, founder agreement
 │
-├── Community/                         # Community programs & services
-│   ├── 01_Programs_Services.md        # Core community offerings catalog
-│   ├── 02_International_Benchmarks.md # What other countries do & we can adopt
-│   ├── 03_Complete_Offerings_Catalog.md # EVERYTHING we can build — master menu
-│   ├── 04_Global_Models_Deep_Dive.md  # Every global community model analyzed
-│   ├── 05_Programs_By_Category.md     # All programs with implementation guides
-│   └── 06_Venue_Experience_Design.md  # How to design event spaces & immersive experiences
+├── Community/                         # Community programs & benchmarks (3 consolidated docs)
+│   ├── 01_Programs_Complete.md        # All programs with Year 1/2/3 priorities & implementation
+│   ├── 02_Global_Benchmarks.md        # International models with Paraguay relevance scores
+│   └── 03_Venue_Design.md            # Event space design & immersive experiences
 │
-├── Investigacion/                     # Research & operational toolkit (existing)
+├── Investigacion/                     # Research & operational toolkit (Spanish)
 │   ├── 00_README.md
 │   ├── 01_Event_History/              # Historical event documentation
-│   ├── 02_Organization_Toolkit/       # Event planning & operations
+│   ├── 02_Organization_Toolkit/       # Event planning, safety, administration
+│   │   ├── Administracion/            # Legal structure, governance, templates
+│   │   └── Seguridad/                 # Safety protocols, DM training, vetting (Paraguay-localized)
 │   ├── 03_Venues/                     # Venue database for Asuncion
 │   ├── 04_Marketing/                  # Brand identity & content strategy
 │   └── 05_Finances/                   # Event budget templates
 │
-├── Telegram/                          # Telegram bot/community tools
+├── Telegram/                          # Maskarada community bot
+│   ├── README.md                      # Bot overview & tech stack
+│   └── bot_spec.md                    # ★ Technical specification (MVP scope)
 │
 └── .github/                           # GitHub project management
     └── ISSUES_TEMPLATE/               # Issue templates for project work
@@ -96,26 +100,43 @@ Large-scale expos combining education, entertainment, and cultural disruption. G
 
 ---
 
+## Document Status
+
+| Document | Status | Data Confidence |
+|----------|--------|-----------------|
+| Financial Projections (06) | Draft — numbers are ESTIMATES | LOW — no customer validation |
+| Market Analysis (05) | Draft — TAM revised down from 100K to 5-15K | LOW — needs primary research |
+| Customer Validation (15) | Template — NO data collected yet | N/A — framework only |
+| Team Capabilities (16) | Template — founders must fill in | N/A — template only |
+| Strategic Focus (14) | Final — approved priorities | HIGH — clear decisions made |
+| Safety Protocols | Revised — localized for Paraguay | MEDIUM — needs legal review |
+| Technology Roadmap (07) | Revised — budget increased 2.4x | MEDIUM — needs vendor quotes |
+| Legal Structure | Revised — clear SAS recommendation | MEDIUM — needs lawyer review |
+| Community Governance | New — decision framework defined | HIGH — clear framework |
+| Telegram Bot Spec | New — MVP scoped | HIGH — clear spec |
+
+---
+
 ## Key Context
 
 - **Location**: Asuncion, Paraguay (89% Catholic, deeply conservative)
-- **Legal status**: No sex-shop-specific legislation exists — operates under general commercial law
+- **Legal status**: No sex-shop-specific legislation — operates under general commercial law
 - **Market**: 8-10 competitors in adult retail, none doing events at this scale
-- **Cultural moment**: Ministry of Labor recognized sex worker guild UNES in Nov 2024; attitudes shifting
-- **Global tailwind**: Sexual wellness market projected $36.5B (2023) to $75.7B by 2032
+- **Cultural reality**: Conservative opposition is a CENTRAL risk, not a footnote
+- **Team**: [TO BE DOCUMENTED] — see [Team Capabilities](Business_Plan/16_Team_Capabilities.md)
+- **Validation**: Limited — see [Customer Validation](Business_Plan/15_Customer_Validation.md)
 
 ---
 
 ## Getting Started
 
-1. Read the [Executive Summary](Business_Plan/00_Executive_Summary.md) for the full strategic vision
-2. Review individual brand plans: [Fun4Me](Business_Plan/01_Fun4Me_Store.md), [Maskarada](Business_Plan/02_Maskarada.md), [Sexpo](Business_Plan/03_Sexpo_Paraguay.md)
-3. See [Growth Opportunities](Business_Plan/08_Growth_Opportunities.md) for every expansion path
-4. Browse the [Complete Offerings Catalog](Community/03_Complete_Offerings_Catalog.md) for everything we can build
-5. Study [Global Models](Community/04_Global_Models_Deep_Dive.md) for what communities worldwide do
-6. Use [Programs By Category](Community/05_Programs_By_Category.md) for step-by-step implementation
+1. Read the [Executive Summary](Business_Plan/00_Executive_Summary.md) for the strategic vision
+2. Read the [Strategic Focus](Business_Plan/14_Strategic_Focus.md) to understand what we ARE and ARE NOT doing
+3. Review [Customer Validation](Business_Plan/15_Customer_Validation.md) to see what's proven vs assumed
+4. Review [Financial Projections](Business_Plan/06_Financial_Projections.md) — the single authoritative financial model
+5. Study the [Community Programs](Community/01_Programs_Complete.md) for Year 1 priorities
+6. Review [Risk Management](Business_Plan/12_Risk_Management.md) for what could go wrong
 7. Explore operational guides in `Investigacion/02_Organization_Toolkit/`
-8. See GitHub Issues for active workstreams and task tracking
 
 ---
 

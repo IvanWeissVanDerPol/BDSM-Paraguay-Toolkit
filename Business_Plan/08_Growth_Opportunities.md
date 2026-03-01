@@ -1,8 +1,12 @@
-# Growth Opportunities — Complete Expansion Roadmap
+# Growth Opportunities — Expansion Roadmap
 
-## Every Path Forward for the Ecosystem
+## Prioritized Growth Paths
 
-This document catalogs every growth opportunity, new revenue stream, expansion path, and strategic initiative available to the Paraguay Adult Wellness Ecosystem — from quick wins to long-term transformational projects.
+> **IMPORTANT: This is a catalog of possibilities, NOT a to-do list.** See [14_Strategic_Focus.md](14_Strategic_Focus.md) for what we are ACTUALLY doing in Year 1 (only 8 things). Everything in this document that is not in the Year 1 plan is explicitly deferred.
+>
+> **Decision rule:** Before pursuing any opportunity from this list, it must pass the decision framework in the Strategic Focus document. Most of these ideas will NEVER be executed — and that's the right answer.
+>
+> Items that have been explicitly removed from consideration are listed in Section 11 (Ideas Archive / Rejected).
 
 ---
 
@@ -399,18 +403,13 @@ This document catalogs every growth opportunity, new revenue stream, expansion p
 | **Community health clinic** | Sexual health testing and counseling center (partnership) | $20,000-40,000 (partner-funded) | Grant revenue + community goodwill |
 | **Outdoor event property** | Lease/purchase private quinta for retreats and summer events | $15,000-30,000/year | Premium event revenue + rental |
 
-### 11.2 Ecosystem Expansion
+### 11.2 Ecosystem Expansion (Aspirational — Year 5+)
 
-| Initiative | Description | Potential |
-|---|---|---|
-| **Franchise/licensing model** | License Maskarada and Sexpo brands to other LatAm cities | Royalties + brand expansion |
-| **LatAm adult wellness network** | Build alliance of communities across continent | Knowledge sharing, performer exchange, collective bargaining |
-| **Annual LatAm conference** | Host THE conference for adult wellness organizers in LatAm | Revenue + prestige + network |
-| **Investment fund** | Small fund investing in LatAm adult wellness startups | Returns + ecosystem growth |
-| **Import/distribution company** | Become Paraguay's adult product distributor | B2B revenue, market control |
-| **Own product manufacturing** | Manufacture own-brand products locally | Maximum margins, brand control |
-| **Adult wellness tourism** | Package Asuncion as a destination for Mercosur visitors | Tourism revenue, hotel partnerships |
-| **Media company** | Full media operation: podcast network, YouTube, events coverage | Ad revenue, brand partnerships |
+| Initiative | Description | Potential | Realistic? |
+|---|---|---|---|
+| **LatAm adult wellness network** | Build alliance of communities across continent | Knowledge sharing, performer exchange | Medium — requires established community first |
+| **Import/distribution company** | Become Paraguay's adult product distributor | B2B revenue | Medium — depends on Fun4Me scale |
+| **Permanent community space** | Leased venue for events, workshops, office | Eliminates venue costs | High — when revenue exceeds $100K/year |
 
 ### 11.3 Cultural & Institutional Goals
 
@@ -419,6 +418,27 @@ This document catalogs every growth opportunity, new revenue stream, expansion p
 | **Government recognition** | Official recognition as cultural/community organization | Legal protection, grant access |
 | **University partnerships** | Ongoing research and education collaborations | Academic credibility |
 | **Media normalization** | Regular positive media coverage in mainstream outlets | Cultural shift acceleration |
-| **Industry association** | Found the Paraguayan adult wellness industry association | Collective voice, regulatory influence |
-| **International affiliation** | Join WAS/FLASSES through ECIS | Global network access |
-| **Cultural institution status** | Be recognized as part of Asuncion's cultural landscape | Permanent legitimacy |
+
+---
+
+## 12. Ideas Archive — Explicitly Rejected
+
+> These ideas appeared in brainstorming but have been explicitly rejected because they don't fit Paraguay's market, are premature, or are distractions from the core business. They are documented here so future team members understand WHY they were rejected and don't re-propose them.
+
+| Rejected Idea | Reason for Rejection |
+|---|---|
+| **Investment fund** | Fantasy for a $56K/year revenue startup. Requires $1M+ AUM to be viable. |
+| **Own product manufacturing** | Paraguay lacks specialized manufacturing base for adult products. Import is cheaper and better. |
+| **Adult wellness tourism** | Paraguay is not a tourism destination. Infrastructure (hotels, restaurants, transport) doesn't support kink tourism. |
+| **Franchise/licensing model** | Need a proven, profitable, replicable model before licensing. That's Year 5+ at earliest. |
+| **Media company** (separate brand) | Brand dilution. Content should live within existing brands, not spawn new ones. |
+| **VR experiences** | No demand, excessive cost ($20K+), no infrastructure. |
+| **AI-powered recommendations** | Over-engineered for <500 customers. Simple "related products" plugin is sufficient. |
+| **Community marketplace** (peer-to-peer) | Not enough users. Minimum viable marketplace needs ~5,000 active users. |
+| **Mobile app** (Year 1-2) | Premature. Responsive website is sufficient until 1,000+ active users. Real cost: $8-15K, not $500-2,000. |
+| **Multiple new sub-brands** (Intima, Escuela, Noche, Cuerpo, Voces) | Brand dilution, resource fragmentation. ONE brand per function. |
+| **Annual LatAm conference** | Need 3+ years of proven local events before attempting international. |
+| **Community health clinic** | Requires medical licensing, partnerships, $40K+. Not our competency. Partner with existing health orgs instead. |
+| **Creator management agency** | Distraction. Tiny market in Paraguay. |
+| **Sexpo Film Festival** | No content pipeline, no film community, no audience in Paraguay. |
+| **"Kink tourism" packages** | Paraguay is not a tourist destination for this purpose. Buenos Aires and Sao Paulo already serve this market. |

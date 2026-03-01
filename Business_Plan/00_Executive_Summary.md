@@ -53,16 +53,20 @@ Each brand feeds the others. Sexpo brings newcomers. Maskarada converts them to 
 
 ## Financial Summary
 
+> All numbers sourced from [06_Financial_Projections.md](06_Financial_Projections.md) — the single authoritative financial model.
+
 | Metric | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|
 | **Revenue** | $56,600 | $126,500 | $244,400 |
 | **Costs** | $81,600 | $144,200 | $238,000 |
 | **Net** | -$25,000 | -$17,600 | +$5,800 |
-| **Break-even** | — | — | Month 28-30 |
+| **Break-even** | — | — | Month 32-36 |
 
 **Startup investment required**: ~$30,000 USD (covers legal setup, website, inventory, equipment, working capital)
 
 **Lean path**: Founders operate most functions personally in Year 1, reaching near break-even at ~$1,200 net with $40,000 invested.
+
+**Honest caveat**: These are base-case projections in an unvalidated market. At 50% of projected revenue, additional capital of $15-20K would be needed. See sensitivity analysis in [Financial Projections](06_Financial_Projections.md).
 
 ---
 
